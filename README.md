@@ -1,2 +1,2 @@
 # Dalta-Damo
-Dalta damo for git and github class
+Dalta Demo class for github
