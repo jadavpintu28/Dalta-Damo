@@ -1,2 +1,4 @@
 # Dalta-Damo
-Dalta Demo class for github
+This is my first git repository
+<br/>
+Author - Jadav Pintu
